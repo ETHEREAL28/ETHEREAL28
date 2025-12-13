@@ -44,11 +44,11 @@ I am comfortable working both independently and in a team, and continuously impr
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ETHEREAL28&show_icons=true&theme=dracula&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ETHEREAL28&layout=compact&theme=dark&hide_border=true" height="150"/>
-</div>
+</div> -->
 
 ---
 
