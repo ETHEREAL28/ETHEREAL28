@@ -1,33 +1,24 @@
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Edwin%20Winanda&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20%26%20UI%20UX%20Enthusiast&descAlignY=55&color=gradient&customColorList=6,11,20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Edwin%20Winanda&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20%26amp%3B%20UI%20UX%20Designer&descAlignY=55&color=gradient&customColorList=6,11,20"
     alt="Edwin Winanda Header"
   />
 </div>
   
-  ### 👨‍💻 Building Digital Experiences, One Component at a Time
+### 👨‍💻 Building Digital Experiences, One Component at a Time
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%7C+UI%2FUX+Designer;React+%7C+Tailwind+CSS+%7C+Modern+Web;Turning+Ideas+into+Interactive+Experiences)](https://git.io/typing-svg)
-  
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%7C+UI%2FUX+Designer;React+%7C+Tailwind+CSS+%7C+Modern+Web;Turning+Ideas+into+Interactive+Experiences)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
 
-```typescript
-const edwin = {
-  role: "Frontend Developer & Informatics Student",
-  location: "Indonesia 🇮🇩",
-  focus: ["Web Development", "UI/UX Design", "User Experience"],
-  currently: "Building scalable and pixel-perfect web applications",
-  learning: ["Next.js", "TypeScript", "Advanced React Patterns"],
-  philosophy: "Clean code is not written by following a set of rules. You know you're crafting clean code when each routine you read turns out to be pretty much what you expected."
-};
-```
+I’m a **Frontend Developer and Informatics Student** based in Indonesia 🇮🇩.
 
-I specialize in crafting **responsive**, **accessible**, and **performant** web applications that users love. My approach combines technical expertise with design sensibility to create interfaces that are both beautiful and functional. Whether working solo or collaborating with a team, I'm committed to delivering high-quality code and exceptional user experiences.
+I specialize in building **responsive, accessible, and user-friendly web applications**, with a strong focus on **UI/UX design and clean frontend architecture**. I enjoy translating designs into pixel-perfect interfaces while keeping performance, usability, and maintainability as top priorities.
+
+Currently, I work primarily with **React**, **Tailwind CSS**, and **JavaScript**, while continuously improving my skills in **TypeScript**, **Laravel**, and modern frontend workflows. I’m passionate about learning, collaborating, and building digital products that provide real value to users.
 
 ---
 
@@ -58,42 +49,19 @@ I specialize in crafting **responsive**, **accessible**, and **performant** web 
 
 ---
 
-## 💼 What I Bring to the Table
-
-<div align="center">
-
-| 🎨 Design | 💻 Development | 🤝 Collaboration |
-|-----------|----------------|------------------|
-| User-Centered Design | Clean, Maintainable Code | Agile Methodologies |
-| Responsive Layouts | Component Architecture | Clear Communication |
-| Modern UI Patterns | Performance Optimization | Team Player Mindset |
-
-</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ETHEREAL28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ETHEREAL28&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-</div>
+</div> -->
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ETHEREAL28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ETHEREAL28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" />
 </div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on personal projects to expand my portfolio
-- 🌱 Deep diving into **TypeScript** and **React.js**
-- 🎨 Exploring advanced **animation techniques** with Framer Motion
-- 📚 Studying **design systems** and **component libraries**
-- 💡 Contributing to open-source projects
-
----
 
 ## 🌐 Let's Connect!
 
