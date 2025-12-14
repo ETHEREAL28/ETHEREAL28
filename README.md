@@ -66,13 +66,17 @@ I specialize in crafting **responsive**, **accessible**, and **performant** web 
 
 ## 📊 GitHub Analytics
 
-<!-- <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ETHEREAL28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF" />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ETHEREAL28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ETHEREAL28&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
-</div> -->
+</div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ETHEREAL28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ETHEREAL28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ETHEREAL28&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" />
 </div>
 
 ---
