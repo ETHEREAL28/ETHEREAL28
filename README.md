@@ -5,10 +5,14 @@
     alt="Edwin Winanda Header"
   />
 </div>
-  
+
+<div align="center">
+
 ### 👨‍💻 Building Digital Experiences, One Component at a Time
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer+%7C+UI%2FUX+Designer;React+%7C+Tailwind+CSS+%7C+Modern+Web;Turning+Ideas+into+Interactive+Experiences)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Turning+Ideas+into+Interactive+Experiences)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
